@@ -18,8 +18,8 @@ REGION_CODE_TO_REGION = {
 def main():
     week = int(input("Input week to send >> "))
     solos = input("Solo? True/False>> ") == "True"
-    standings = []
     for k, v in REGION_CODE_TO_REGION.items():
+        standings = []
         url = URL_TEMPLATE % (week, k, week, k)
         print("Fetching Standings from EPIC for Week %d, Region %s" % (week, v))
         request = requests.get(url)
@@ -41,8 +41,9 @@ def main():
                 print("No payout for entry: " + str(entry["displayNames"]))
             standing["points"] = int(entry["pointsEarned"])
             standings.append(standing)
-    print("Sending %d standings to server" % len(standings))
-    requests.put("%s/standings" % SENGAGE_API_URL, data=json.dumps({"standings" : standings}))
+        print("Sending %d standings to server" % len(standings))
+        requests.put("%s/standings" % SENGAGE_API_URL, data=json.dumps({"standings" : standings}))
+
 
 
 if __name__ == "__main__":
