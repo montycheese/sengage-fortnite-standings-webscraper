@@ -41,8 +41,6 @@ def main():
                 print("No payout for entry: " + str(entry["displayNames"]))
             standing["points"] = int(entry["pointsEarned"])
             standings.append(standing)
-            print(standing)
-            exit()
     print("Sending %d standings to server" % len(standings))
     requests.put("%s/standings" % SENGAGE_API_URL, data=json.dumps({"standings" : standings}))
 
