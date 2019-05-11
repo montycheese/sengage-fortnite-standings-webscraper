@@ -1,0 +1,602 @@
+[
+  {
+    "rank": "1",
+    "name": "Tfue",
+    "points": 69,
+    "prize": 5000
+  },
+  {
+    "rank": "2",
+    "name": "KNG Unknown",
+    "points": 67,
+    "prize": 4000
+  },
+  {
+    "rank": "3",
+    "name": "FaZe Funk",
+    "points": 64,
+    "prize": 3000
+  },
+  {
+    "rank": "4",
+    "name": "NittleFN",
+    "points": 64,
+    "prize": 2500
+  },
+  {
+    "rank": "5",
+    "name": "CLG psalm",
+    "points": 64,
+    "prize": 2250
+  },
+  {
+    "rank": "6",
+    "name": "FaZe Dubs.",
+    "points": 64,
+    "prize": 2000
+  },
+  {
+    "rank": "7",
+    "name": "MSF Clix",
+    "points": 63,
+    "prize": 1750
+  },
+  {
+    "rank": "8",
+    "name": "Deѕtroy",
+    "points": 60,
+    "prize": 1500
+  },
+  {
+    "rank": "9",
+    "name": "Ghost Snood",
+    "points": 60,
+    "prize": 1250
+  },
+  {
+    "rank": "10",
+    "name": "Hogmanlolz",
+    "points": 59,
+    "prize": 1000
+  },
+  {
+    "rank": "11",
+    "name": "Ghost Saf",
+    "points": 59,
+    "prize": 800
+  },
+  {
+    "rank": "12",
+    "name": "ShawnClaude",
+    "points": 59,
+    "prize": 800
+  },
+  {
+    "rank": "13",
+    "name": "MSF Famhood",
+    "points": 58,
+    "prize": 800
+  },
+  {
+    "rank": "14",
+    "name": "Thе Uzi",
+    "points": 57,
+    "prize": 800
+  },
+  {
+    "rank": "15",
+    "name": "yung calculator",
+    "points": 57,
+    "prize": 800
+  },
+  {
+    "rank": "16",
+    "name": "nanolite.",
+    "points": 56,
+    "prize": 800
+  },
+  {
+    "rank": "17",
+    "name": "SEN Bughа",
+    "points": 55,
+    "prize": 800
+  },
+  {
+    "rank": "18",
+    "name": "E11 НЕART",
+    "points": 55,
+    "prize": 800
+  },
+  {
+    "rank": "19",
+    "name": "EG JTruth",
+    "points": 55,
+    "prize": 800
+  },
+  {
+    "rank": "20",
+    "name": "RBK JeRΜ",
+    "points": 54,
+    "prize": 800
+  },
+  {
+    "rank": "21",
+    "name": "Scoped on YT",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "22",
+    "name": "E11 Joseph",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "23",
+    "name": "SEN Animal",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "24",
+    "name": "bhegs",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "25",
+    "name": "100T Elevate",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "26",
+    "name": "vуx",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "27",
+    "name": "Xebiit",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "28",
+    "name": "ApexCoop.",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "29",
+    "name": "kolorful ツ",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "30",
+    "name": "Twitch Nycoking",
+    "points": 52,
+    "prize": 650
+  },
+  {
+    "rank": "31",
+    "name": "Everox Has 0ms",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "32",
+    "name": "strëtch",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "33",
+    "name": "BuckeFPS",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "34",
+    "name": "TSM_Zexrow",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "35",
+    "name": "Twitch.Luneze",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "36",
+    "name": "Impact Smqcked",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "37",
+    "name": "llllIIIIllIIllll",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "38",
+    "name": "Pourings",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "39",
+    "name": "NioRooch",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "40",
+    "name": "MRKN Perplexii",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "41",
+    "name": "brainded jahq",
+    "points": 51,
+    "prize": 450
+  },
+  {
+    "rank": "42",
+    "name": "Evade Rampage",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "43",
+    "name": "Kiox.",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "44",
+    "name": "pho9n",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "45",
+    "name": "1600 Lazar",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "46",
+    "name": "clarityG",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "47",
+    "name": "Beeсher",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "48",
+    "name": "FaZe Tilt.",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "49",
+    "name": "Dopiㅤ",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "50",
+    "name": "E11 daxor.",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "51",
+    "name": "FaZe Bini.",
+    "points": 49,
+    "prize": 400
+  },
+  {
+    "rank": "52",
+    "name": "SheepImThat",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "53",
+    "name": "E11 BlooTea",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "54",
+    "name": "TF Cole",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "55",
+    "name": "tweet connersFN",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "56",
+    "name": "Co1azo",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "57",
+    "name": "armani ツ",
+    "points": 48,
+    "prize": 400
+  },
+  {
+    "rank": "58",
+    "name": "WordBro",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "59",
+    "name": "FLY Faultur",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "60",
+    "name": "Smitey.",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "61",
+    "name": "Nurmacy",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "62",
+    "name": "Carter1x tv",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "63",
+    "name": "Pyro Voil",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "64",
+    "name": "Bolt Eclipsae",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "65",
+    "name": "DavisEz",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "66",
+    "name": "Lanson.",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "67",
+    "name": "Pyronic Criz",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "68",
+    "name": "NC Khanada",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "69",
+    "name": "aaron.gov",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "70",
+    "name": "TwizBot",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "71",
+    "name": "doubtsy is sad",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "72",
+    "name": "E11 Agholor",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "73",
+    "name": "Eco Tf Up",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "74",
+    "name": "RogueShark_",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "75",
+    "name": "TTV EggnogOW",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "76",
+    "name": "RBK Kodi",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "77",
+    "name": "Twitch GlitchSZN",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "78",
+    "name": "Twitch.TeeJayFN",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "79",
+    "name": "MySticks ツ",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "80",
+    "name": "Bad RNG iPepper",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "81",
+    "name": "Jumpen.",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "82",
+    "name": "Enigmafy",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "83",
+    "name": "LiquidGabe",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "84",
+    "name": "FrayFN",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "85",
+    "name": "Fxsiions",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "86",
+    "name": "LG Devious",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "87",
+    "name": "Scubify",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "88",
+    "name": "Topgun",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "89",
+    "name": "Calebur",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "90",
+    "name": "ghost thwifooo",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "91",
+    "name": "malarizzle.",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "92",
+    "name": "IMAGINE IF.",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "93",
+    "name": "wsup frugz",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "94",
+    "name": "RoAtDW",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "95",
+    "name": "ItsTrajectory",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "96",
+    "name": "Discord Seem9966",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "97",
+    "name": "Parallel AND0",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "98",
+    "name": "FlixZys",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "99",
+    "name": "Kaaras007",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "100",
+    "name": "thn dany",
+    "points": 43,
+    "prize": 350
+  }
+]

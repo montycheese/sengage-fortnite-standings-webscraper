@@ -1,0 +1,602 @@
+[
+  {
+    "rank": "1",
+    "name": "TOP_Banny",
+    "points": 102,
+    "prize": 3000
+  },
+  {
+    "rank": "2",
+    "name": "TAKAMURAMM",
+    "points": 85,
+    "prize": 2500
+  },
+  {
+    "rank": "3",
+    "name": "CR.RizArt_o",
+    "points": 81,
+    "prize": 2250
+  },
+  {
+    "rank": "4",
+    "name": "U s e r T",
+    "points": 75,
+    "prize": 2000
+  },
+  {
+    "rank": "5",
+    "name": "SV_peach.CN",
+    "points": 72,
+    "prize": 1750
+  },
+  {
+    "rank": "6",
+    "name": "Riddle Bob ツ",
+    "points": 72,
+    "prize": 1500
+  },
+  {
+    "rank": "7",
+    "name": "Meta Peterpan",
+    "points": 70,
+    "prize": 1250
+  },
+  {
+    "rank": "8",
+    "name": "KGA SexyBoy",
+    "points": 70,
+    "prize": 1000
+  },
+  {
+    "rank": "9",
+    "name": "Meta Hood.J",
+    "points": 69,
+    "prize": 800
+  },
+  {
+    "rank": "10",
+    "name": "Shin gwan",
+    "points": 66,
+    "prize": 600
+  },
+  {
+    "rank": "11",
+    "name": "Newbee_Mendezz",
+    "points": 66,
+    "prize": 500
+  },
+  {
+    "rank": "12",
+    "name": "Ｓａｒｕｚｙ",
+    "points": 65,
+    "prize": 500
+  },
+  {
+    "rank": "13",
+    "name": "POU_Moon",
+    "points": 64,
+    "prize": 500
+  },
+  {
+    "rank": "14",
+    "name": "GE_Paengdol",
+    "points": 64,
+    "prize": 500
+  },
+  {
+    "rank": "15",
+    "name": "Ql3-Jl3-Al3-Cl3",
+    "points": 64,
+    "prize": 500
+  },
+  {
+    "rank": "16",
+    "name": "Newbee_Awaken",
+    "points": 62,
+    "prize": 500
+  },
+  {
+    "rank": "17",
+    "name": "Ace1 CLZ",
+    "points": 61,
+    "prize": 500
+  },
+  {
+    "rank": "18",
+    "name": "ਇਰੈਕਟਰਾਧਨਕ ਯ",
+    "points": 59,
+    "prize": 500
+  },
+  {
+    "rank": "19",
+    "name": "Liberta ぼくラグナ",
+    "points": 59,
+    "prize": 500
+  },
+  {
+    "rank": "20",
+    "name": "はむすたーゆせあ",
+    "points": 58,
+    "prize": 500
+  },
+  {
+    "rank": "21",
+    "name": "chwey xd",
+    "points": 57,
+    "prize": 400
+  },
+  {
+    "rank": "22",
+    "name": "4RaiF_Nagomin",
+    "points": 56,
+    "prize": 400
+  },
+  {
+    "rank": "23",
+    "name": "C9_Duty",
+    "points": 56,
+    "prize": 400
+  },
+  {
+    "rank": "24",
+    "name": "T1 Quickss",
+    "points": 55,
+    "prize": 400
+  },
+  {
+    "rank": "25",
+    "name": "Meta Spidermon",
+    "points": 55,
+    "prize": 400
+  },
+  {
+    "rank": "26",
+    "name": "CR.Arisakaaa",
+    "points": 55,
+    "prize": 400
+  },
+  {
+    "rank": "27",
+    "name": "RVG_YAMAKIN",
+    "points": 54,
+    "prize": 400
+  },
+  {
+    "rank": "28",
+    "name": "MJF Zenith",
+    "points": 53,
+    "prize": 400
+  },
+  {
+    "rank": "29",
+    "name": "SCARZ KilluA",
+    "points": 53,
+    "prize": 400
+  },
+  {
+    "rank": "30",
+    "name": "せこさま",
+    "points": 53,
+    "prize": 400
+  },
+  {
+    "rank": "31",
+    "name": "Weibo_Aduo.CN",
+    "points": 53,
+    "prize": 300
+  },
+  {
+    "rank": "32",
+    "name": "CR.UyuRiru",
+    "points": 53,
+    "prize": 300
+  },
+  {
+    "rank": "33",
+    "name": "ANBU.Howl",
+    "points": 52,
+    "prize": 300
+  },
+  {
+    "rank": "34",
+    "name": "Riddle Nisidera",
+    "points": 52,
+    "prize": 300
+  },
+  {
+    "rank": "35",
+    "name": "BB.CRL",
+    "points": 52,
+    "prize": 300
+  },
+  {
+    "rank": "36",
+    "name": "IMP Sanctier",
+    "points": 52,
+    "prize": 300
+  },
+  {
+    "rank": "37",
+    "name": "GL_Shiras",
+    "points": 52,
+    "prize": 300
+  },
+  {
+    "rank": "38",
+    "name": "ORANGE.Allude",
+    "points": 51,
+    "prize": 300
+  },
+  {
+    "rank": "39",
+    "name": "Weibo_Easy.CN",
+    "points": 51,
+    "prize": 300
+  },
+  {
+    "rank": "40",
+    "name": "T1 Arius",
+    "points": 51,
+    "prize": 300
+  },
+  {
+    "rank": "41",
+    "name": "Lx1 Konoh4",
+    "points": 51,
+    "prize": 200
+  },
+  {
+    "rank": "42",
+    "name": "4RaiF_Tonbo",
+    "points": 51,
+    "prize": 200
+  },
+  {
+    "rank": "43",
+    "name": "Use Code Kurse",
+    "points": 51,
+    "prize": 200
+  },
+  {
+    "rank": "44",
+    "name": "RVG_Alented",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "45",
+    "name": "4RaiF_GoRou",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "46",
+    "name": "Meta SinOoh",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "47",
+    "name": "GL_bykn",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "48",
+    "name": "KING SHUO",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "49",
+    "name": "zCCLV",
+    "points": 50,
+    "prize": 200
+  },
+  {
+    "rank": "50",
+    "name": "Penta AA",
+    "points": 49,
+    "prize": 200
+  },
+  {
+    "rank": "51",
+    "name": "Meta Envy",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "52",
+    "name": "SV_Gangsta.CN",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "53",
+    "name": "GE_Swillium",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "54",
+    "name": "Riddle Maufin ツ",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "55",
+    "name": "KING-Velody1",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "56",
+    "name": "まちょだよ",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "57",
+    "name": "TriggerQQ Flame",
+    "points": 49,
+    "prize": 175
+  },
+  {
+    "rank": "58",
+    "name": "Twitch_Kyuhan",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "59",
+    "name": "4Time_VegaS",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "60",
+    "name": "DUALSHOCK４",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "61",
+    "name": "CODE AGS-JONIEL",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "62",
+    "name": "Riddle Aiz",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "63",
+    "name": "4RaiF_min10ns",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "64",
+    "name": "rash -_-",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "65",
+    "name": "GW_Nephrite",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "66",
+    "name": "AlterEgo Feezle",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "67",
+    "name": "KINGzzzzx",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "68",
+    "name": "M_Hungry",
+    "points": 48,
+    "prize": 175
+  },
+  {
+    "rank": "69",
+    "name": "はむっぴkidsのおかっぴ",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "70",
+    "name": "JET_Shironeko",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "71",
+    "name": "SV_Gtea.CN",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "72",
+    "name": "Rz.Bombclown",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "73",
+    "name": "RIKI zzz",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "74",
+    "name": "HN-Dom",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "75",
+    "name": "Roguek1",
+    "points": 47,
+    "prize": 175
+  },
+  {
+    "rank": "76",
+    "name": "CODE TOP-FaxFox",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "77",
+    "name": "100T kyzui btw",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "78",
+    "name": "ASEL_mangsaeng",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "79",
+    "name": "I am TienND",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "80",
+    "name": "Σ.痩せているみこや",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "81",
+    "name": "Fenikkusu-Ryu",
+    "points": 47,
+    "prize": 150
+  },
+  {
+    "rank": "82",
+    "name": "DTN Nasubi",
+    "points": 46,
+    "prize": 150
+  },
+  {
+    "rank": "83",
+    "name": "SqeR はむっぴ",
+    "points": 46,
+    "prize": 150
+  },
+  {
+    "rank": "84",
+    "name": "CP_Cursive",
+    "points": 46,
+    "prize": 150
+  },
+  {
+    "rank": "85",
+    "name": "WGS_HOON",
+    "points": 46,
+    "prize": 150
+  },
+  {
+    "rank": "86",
+    "name": "GE_Zuko",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "87",
+    "name": "GE_fa1zzy",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "88",
+    "name": "Code CR-Scarlet",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "89",
+    "name": "ȘqëɌ Ŗėƒŕęť",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "90",
+    "name": "ドメスティックな菊池",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "91",
+    "name": "zakoheishi",
+    "points": 45,
+    "prize": 150
+  },
+  {
+    "rank": "92",
+    "name": "Rz.tak_o",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "93",
+    "name": "Pacify RaymarkPH",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "94",
+    "name": "RSG Hatella",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "95",
+    "name": "Goodbye smile gg",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "96",
+    "name": "しぐれにjp",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "97",
+    "name": "TOP_include",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "98",
+    "name": "WorldCup98位だけどなに",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "99",
+    "name": "BlossoM Tsunami",
+    "points": 44,
+    "prize": 150
+  },
+  {
+    "rank": "100",
+    "name": "MaitGreuthers",
+    "points": 44,
+    "prize": 150
+  }
+]

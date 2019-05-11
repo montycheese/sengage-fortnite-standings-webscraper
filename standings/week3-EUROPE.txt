@@ -1,0 +1,602 @@
+[
+  {
+    "rank": "1",
+    "name": "luKi tjk",
+    "points": 69,
+    "prize": 5000
+  },
+  {
+    "rank": "2",
+    "name": "COOLER LeftEye",
+    "points": 68,
+    "prize": 4000
+  },
+  {
+    "rank": "3",
+    "name": "Fledermoys",
+    "points": 67,
+    "prize": 3000
+  },
+  {
+    "rank": "4",
+    "name": "Tchub_",
+    "points": 63,
+    "prize": 2500
+  },
+  {
+    "rank": "5",
+    "name": "TTVCoreGamingg",
+    "points": 62,
+    "prize": 2250
+  },
+  {
+    "rank": "6",
+    "name": "wakie.",
+    "points": 62,
+    "prize": 2000
+  },
+  {
+    "rank": "7",
+    "name": "FACT lolb0om",
+    "points": 60,
+    "prize": 1750
+  },
+  {
+    "rank": "8",
+    "name": "Secret_Domentos",
+    "points": 59,
+    "prize": 1500
+  },
+  {
+    "rank": "9",
+    "name": "Atlantis Lеtshe",
+    "points": 58,
+    "prize": 1250
+  },
+  {
+    "rank": "10",
+    "name": "S2V DiegoGB",
+    "points": 57,
+    "prize": 1000
+  },
+  {
+    "rank": "11",
+    "name": "DualMedia BlastR",
+    "points": 57,
+    "prize": 800
+  },
+  {
+    "rank": "12",
+    "name": "LG beehive",
+    "points": 57,
+    "prize": 800
+  },
+  {
+    "rank": "13",
+    "name": "VGIA Markel",
+    "points": 56,
+    "prize": 800
+  },
+  {
+    "rank": "14",
+    "name": "Xypher Kie",
+    "points": 56,
+    "prize": 800
+  },
+  {
+    "rank": "15",
+    "name": "E11 Tschiiinken",
+    "points": 56,
+    "prize": 800
+  },
+  {
+    "rank": "16",
+    "name": "K0nfetti_Twitch",
+    "points": 55,
+    "prize": 800
+  },
+  {
+    "rank": "17",
+    "name": "cx tobi",
+    "points": 55,
+    "prize": 800
+  },
+  {
+    "rank": "18",
+    "name": "VHV Crue",
+    "points": 54,
+    "prize": 800
+  },
+  {
+    "rank": "19",
+    "name": "NRG MrSavageM",
+    "points": 54,
+    "prize": 800
+  },
+  {
+    "rank": "20",
+    "name": "Fnatic Verox",
+    "points": 54,
+    "prize": 800
+  },
+  {
+    "rank": "21",
+    "name": "YoungCza",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "22",
+    "name": "G2 Tohaj",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "23",
+    "name": "hawkеrs",
+    "points": 54,
+    "prize": 650
+  },
+  {
+    "rank": "24",
+    "name": "VHV Chapix",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "25",
+    "name": "NRG benjуfishу",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "26",
+    "name": "CREAM Belvid",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "27",
+    "name": "Valiance Doma",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "28",
+    "name": "SNG Th0masHD",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "29",
+    "name": "AGO DaaV",
+    "points": 53,
+    "prize": 650
+  },
+  {
+    "rank": "30",
+    "name": "Goonr-on-sticks",
+    "points": 52,
+    "prize": 650
+  },
+  {
+    "rank": "31",
+    "name": "TTVImTh3Beast",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "32",
+    "name": "BøttchR",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "33",
+    "name": "OeS Freq",
+    "points": 52,
+    "prize": 550
+  },
+  {
+    "rank": "34",
+    "name": "Atlantis Mitr0",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "35",
+    "name": "uNp danDÁN",
+    "points": 51,
+    "prize": 550
+  },
+  {
+    "rank": "36",
+    "name": "Actió",
+    "points": 50,
+    "prize": 550
+  },
+  {
+    "rank": "37",
+    "name": "Secret Osmo",
+    "points": 50,
+    "prize": 550
+  },
+  {
+    "rank": "38",
+    "name": "nuggi.",
+    "points": 50,
+    "prize": 550
+  },
+  {
+    "rank": "39",
+    "name": "PENTA Legxndz",
+    "points": 50,
+    "prize": 550
+  },
+  {
+    "rank": "40",
+    "name": "Detoox.",
+    "points": 50,
+    "prize": 550
+  },
+  {
+    "rank": "41",
+    "name": "Kiryache32",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "42",
+    "name": "Daddy Madss",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "43",
+    "name": "Le Stuff 2 XEWER",
+    "points": 50,
+    "prize": 450
+  },
+  {
+    "rank": "44",
+    "name": "Imsdalo",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "45",
+    "name": "P L I X Y",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "46",
+    "name": "Atlantis Flikk",
+    "points": 49,
+    "prize": 450
+  },
+  {
+    "rank": "47",
+    "name": "TTV razebtw",
+    "points": 48,
+    "prize": 450
+  },
+  {
+    "rank": "48",
+    "name": "Winstrike Mayhem",
+    "points": 48,
+    "prize": 450
+  },
+  {
+    "rank": "49",
+    "name": "ttv coffehh",
+    "points": 48,
+    "prize": 450
+  },
+  {
+    "rank": "50",
+    "name": "M10 zwetschkE",
+    "points": 48,
+    "prize": 450
+  },
+  {
+    "rank": "51",
+    "name": "Gambit AstroSMZ",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "52",
+    "name": "FelixGen_",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "53",
+    "name": "Exalty Falconly",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "54",
+    "name": "DeroxSpamsTommy",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "55",
+    "name": "Jalebob Twitch",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "56",
+    "name": "MajestSpamsTommy",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "57",
+    "name": "ViaR Kenhk168",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "58",
+    "name": "E11 Boyer",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "59",
+    "name": "VP JAMSIDE",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "60",
+    "name": "VapxrzCSC",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "61",
+    "name": "Merijn -_-",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "62",
+    "name": "CODE LUUU",
+    "points": 47,
+    "prize": 400
+  },
+  {
+    "rank": "63",
+    "name": "Twitch EdwinFN_",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "64",
+    "name": "villager krejz",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "65",
+    "name": "M5 l Crowlley",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "66",
+    "name": "M IDhem",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "67",
+    "name": "aqua.ㅤ",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "68",
+    "name": "Alliance Ticke",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "69",
+    "name": "STD.CONTROLLER ツ",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "70",
+    "name": "SitriC limbo",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "71",
+    "name": "CONQUER gasoneeh",
+    "points": 46,
+    "prize": 400
+  },
+  {
+    "rank": "72",
+    "name": "Zino was taken",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "73",
+    "name": "Lootboy Skram",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "74",
+    "name": "mikejeje",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "75",
+    "name": "CaptainWind",
+    "points": 45,
+    "prize": 400
+  },
+  {
+    "rank": "76",
+    "name": "NLE Teed",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "77",
+    "name": "Riki XDD",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "78",
+    "name": "Twitch JNips",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "79",
+    "name": "COOLER Gebber",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "80",
+    "name": "QLASH JoYe",
+    "points": 45,
+    "prize": 350
+  },
+  {
+    "rank": "81",
+    "name": "LeStream Blaxou",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "82",
+    "name": "zemee",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "83",
+    "name": "JohnFN",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "84",
+    "name": "DestinysJesusTTV",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "85",
+    "name": "Wxlfiez.tv",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "86",
+    "name": "MarkusC_",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "87",
+    "name": "Atlantis kejseR",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "88",
+    "name": "santo is single",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "89",
+    "name": "Drali V",
+    "points": 44,
+    "prize": 350
+  },
+  {
+    "rank": "90",
+    "name": "forcezkiyFN",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "91",
+    "name": "Not BadSniper",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "92",
+    "name": "AZZEK_YOUTUBE",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "93",
+    "name": "jakei btw",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "94",
+    "name": "Raskology",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "95",
+    "name": "FaZe Vorwenn",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "96",
+    "name": "Evade AddzZ",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "97",
+    "name": "N47 Klusia",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "98",
+    "name": "Adictus Previous",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "99",
+    "name": "Andeeza",
+    "points": 43,
+    "prize": 350
+  },
+  {
+    "rank": "100",
+    "name": "Osmose Sops",
+    "points": 43,
+    "prize": 350
+  }
+]
